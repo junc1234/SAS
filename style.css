@@ -1,0 +1,28 @@
+.entry-field{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   font-size:16px;
+    text-align: center;
+     font-weight:700;
+}
+body{
+    background-color: black;
+    color: white;
+}
+entry-field{
+    color:gray;
+    background-color:black;
+    border-width:0px;
+}
+
+model-viewer{
+    background-color:black;
+    width: 65%;
+    height:75%;
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+}
